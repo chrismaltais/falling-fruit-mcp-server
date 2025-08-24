@@ -35,14 +35,13 @@ A Model Context Protocol (MCP) server that connects to the [Falling Fruit API](h
 
 1. **Clone the repository:**
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/chrismaltais/falling-fruit-mcp-server.git
    cd falling-fruit-mcp-server
    ```
 
 2. **Get a Falling Fruit API key (optional):**
    - Visit [Falling Fruit API documentation](https://github.com/falling-fruit/falling-fruit-api)
    - Request an API key from the maintainers
-   - Without an API key, the server will use mock data
 
 3. **Configure environment:**
    ```bash
